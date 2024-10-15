@@ -45,6 +45,12 @@ _Dashes and spaces_
 Type `d` or `–` (endash!) for a horizontal dash. Each row can only contain one dash and nothing else. Together with the space character they can also be used to mimick extension lines if the notation software does not offer a tool to draw generic lines. Use non-breaking space characters (U+00A0) with Dorico’s and Finale’s lyrics tool. (Note that all characters in Figurato except for the space characters have zero width.)  
 <img src="7_dashes.svg" alt="dashes" height="120">
 
+***************************
+Warning! Small error detected in "Dashes and spaces" (Image 7_dashes.svg) : For the 1st example, you have to write:
+,54 ,d3 7bdd (with commas)
+And not:
+54 d3 7bdd
+***************************
 
 #### Parentheses and Brackets
 You can put an accidental, a complete row or even multiple rows in parentheses or brackets.  
